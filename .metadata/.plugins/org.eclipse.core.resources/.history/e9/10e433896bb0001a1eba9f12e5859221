@@ -1,0 +1,104 @@
+import PySimpleGUI as sg
+import mysql.connector
+x,y,z,v='color: ','size: ','price: ','Enter the code: '
+mydb = mysql.connector.connect(
+    host='localhost',
+    user='maxcousin',
+    password='www.moh.com',
+    database='testdb' #to request a specific database
+    )
+mycursor = mydb.cursor()
+def newdata(b,c,d,e):
+    mycursor = mydb.cursor()
+    mycursor.execute('SELECT * FROM rovan WHERE code=(%s) ',(b,));
+    myresult = mycursor.fetchall()
+    if len(myresult) > 1:
+        sg.Print('code already exists')
+    else:
+        mycursor = mydb.cursor()
+        sqlFormula = "INSERT INTO rovan (code, size, price, color) VALUES (%s, %s, %s ,%s)"
+        rovan1 = (b, d, e, c)
+        mycursor.execute(sqlFormula, rovan1)
+        mydb.commit()
+        sg.Print('Done !')        
+def olddata(b):
+    '''to get the data related to code'''
+    try:
+        mycursor = mydb.cursor()
+        mycursor.execute("SELECT * FROM rovan WHERE code=(%s)",(b,));
+        myresult = mycursor.fetchall()
+        for result in myresult:
+            sg.Print(result)
+    except:
+        sg.Print('Error')    
+def editcode(b,c,d,e):
+        try:
+            mycursor = mydb.cursor()
+            mycursor.execute("UPDATE rovan SET price=(%s) WHERE code=(%s)",(e,b));
+            mydb.commit()
+            mycursor.execute("UPDATE rovan SET size=(%s) WHERE code=(%s)",(d,b));
+            mydb.commit()
+            mycursor.execute("UPDATE rovan SET color=(%s) WHERE code=(%s)",(c,b));
+            mydb.commit()
+            sg.Print('Done !')
+        except:
+            sg.Print('Error')
+def delcode(b):
+    try:
+        mycursor.execute("DELETE FROM rovan WHERE code=(%s)",(b,));
+        mydb.commit()    
+        sg.Print('Done !')
+    except:
+        sg.Print("Error")
+sg.theme('White')  # please make your windows colorful
+
+layout =    [[sg.Text('what will you do ?')],
+            [sg.Button('new code'),sg.Text('Code:'),sg.Input(()  ,key='code')],
+            [sg.Button('old code'), sg.Text('Price:'),sg.Input((),key='price')],
+            [sg.Button('edit code'),sg.Text('Size:'),sg.Input((),key='size')],
+            [sg.Button('delete code'),sg.Text('Color:'),sg.Input((),key='color'), sg.Exit()]  ]
+
+window = sg.Window('Rovan', layout)
+
+while True:
+    event, values = window.read()
+    
+    if event == sg.WIN_CLOSED or event == 'Exit':
+        break
+
+    if event == 'new code':
+        b=values['code']
+        e=values['price']
+        d=values['size']
+        c=values['color']
+        newdata(b, c, d, e)
+
+    if event == 'old code':
+        b=values['code']
+        olddata(b)
+
+    if event == 'delete code':
+        b=values['code']
+        delcode(b)
+        
+    if event == 'edit code':
+        b=values['code']
+        e=values['price']
+        d=values['size']
+        c=values['color']
+        editcode(b, c, d, e)
+        
+window.close()       
+
+
+
+
+
+
+
+
+
+
+
+
+

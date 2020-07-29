@@ -1,0 +1,21 @@
+import random
+
+a = input('Pick a choice')
+lst = ['rock','paper','scissors']
+x = random.choice(lst)
+if a == x:
+    print('fair')
+    print('game over')
+    if a=='rock' and x=='paper':
+        print('you lose')
+    elif a=='paper' and x=='rock':
+        print('you win')
+    elif a=='rock' and x=='scissors':
+        print('you win')
+    elif a=='scissors' and x=='rock':
+        print('you lose')
+    elif a=='scissors' and x=='paper':
+        print('you lose')
+    elif a=='paper' and x=='scissors':
+        print('you lose')
+

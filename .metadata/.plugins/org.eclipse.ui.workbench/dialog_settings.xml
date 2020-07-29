@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="EditorSelectionDialog">
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".dat"/>
+		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="false"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="org.eclipse.wst.dtd.core.dtdsource.source"/>
+	</section>
+	<section name="ImportExportAction">
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="C:\Users\moh.S-pc\Downloads\theme-90.xml"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\moh.S-pc\Downloads\theme-90.xml"/>
+		</list>
+	</section>
+</section>

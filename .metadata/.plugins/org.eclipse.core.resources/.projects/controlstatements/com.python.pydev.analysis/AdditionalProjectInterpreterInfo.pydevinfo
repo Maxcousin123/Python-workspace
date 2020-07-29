@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\controlstatements\com.python.pydev.analysis\v2_indexcache
+oddnumbers|1590577044272445000|D:\my work\Programming\Python\Python-workspace\controlstatements\oddnumbers.py
+continuedemo|1590571354795934000|D:\my work\Programming\Python\Python-workspace\controlstatements\continuedemo.py
+forloop|1590568704107544000|D:\my work\Programming\Python\Python-workspace\controlstatements\forloop.py
+multiplaicationtable|1590570264390108000|D:\my work\Programming\Python\Python-workspace\controlstatements\multiplaicationtable.py
+breakdemo|1590570792114557000|D:\my work\Programming\Python\Python-workspace\controlstatements\breakdemo.py
+evenorodd|1590521482914765000|D:\my work\Programming\Python\Python-workspace\controlstatements\evenorodd.py
+productoflist|1590569819394625000|D:\my work\Programming\Python\Python-workspace\controlstatements\productoflist.py
+whiledemo|1590567163058069000|D:\my work\Programming\Python\Python-workspace\controlstatements\whiledemo.py
+assert|1590571354817945000|D:\my work\Programming\Python\Python-workspace\controlstatements\assert.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+5=D:\my work\Programming\Python\Python-workspace\controlstatements\breakdemo.py
+6=breakdemo
+9=D:\my work\Programming\Python\Python-workspace\controlstatements\whiledemo.py
+13=D:\my work\Programming\Python\Python-workspace\controlstatements\assert.py
+1=D:\my work\Programming\Python\Python-workspace\controlstatements\oddnumbers.py
+3=D:\my work\Programming\Python\Python-workspace\controlstatements\productoflist.py
+11=D:\my work\Programming\Python\Python-workspace\controlstatements\continuedemo.py
+15=D:\my work\Programming\Python\Python-workspace\controlstatements\evenorodd.py
+2=oddnumbers
+7=D:\my work\Programming\Python\Python-workspace\controlstatements\multiplaicationtable.py
+12=continuedemo
+8=multiplaicationtable
+4=productoflist
+16=evenorodd
+10=whiledemo
+14=assert
+-- END DICTIONARY
+-- START TREE 1
+5
+i|1|i!1^4#1*19@
+lst|2|lst!3^1#1*35@lst!5^1#1*51@
+pro|1|prod!3^2#1*35@
+x|6|x!7^1#1*67@x!9^1#1*83@x!11^1#1*99@x!13^1#1*115@x!1^1#1*19@x!15^1#1*131@
+y|1|y!1^2#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\kivy\com.python.pydev.analysis\v2_indexcache
+docs2|1592464363707241000|D:\my work\Programming\Python\Python-workspace\kivy\docs2.py
+docs|1592633716786299000|D:\my work\Programming\Python\Python-workspace\kivy\docs.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=D:\my work\Programming\Python\Python-workspace\kivy\docs.py
+3=Widgets
+2=docs
+4=melApp
+-- END DICTIONARY
+-- START TREE 1
+4
+P|1|P!1^207#7*17@
+mel|1|melApp!1^211#7*17@
+sho|1|show_popup!1^216#5*18@
+wid|1|Widgets!1^203#7*17@
+-- END TREE
+-- START TREE 2
+2
+btn|1|btn!3&1^204#9*18@
+bui|1|build!4&1^212#9*18@
+-- END TREE

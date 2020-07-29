@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\MyOwnProjects\com.python.pydev.analysis\v2_indexcache
+GuessTheNumber|1591602228730154000|D:\my work\Programming\Python\Python-workspace\MyOwnProjects\GuessTheNumber.py
+RockPaperScissors|1591638527483283000|D:\my work\Programming\Python\Python-workspace\MyOwnProjects\RockPaperScissors.py
+PasswordGenerator|1591690187029390000|D:\my work\Programming\Python\Python-workspace\MyOwnProjects\PasswordGenerator.py
+SpaceInvaders|1591691660172830000|D:\my work\Programming\Python\Python-workspace\MyOwnProjects\SpaceInvaders.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=RockPaperScissors
+8=GuessTheNumber
+2=PasswordGenerator
+5=D:\my work\Programming\Python\Python-workspace\MyOwnProjects\SpaceInvaders.py
+6=SpaceInvaders
+7=D:\my work\Programming\Python\Python-workspace\MyOwnProjects\GuessTheNumber.py
+1=D:\my work\Programming\Python\Python-workspace\MyOwnProjects\PasswordGenerator.py
+3=D:\my work\Programming\Python\Python-workspace\MyOwnProjects\RockPaperScissors.py
+-- END DICTIONARY
+-- START TREE 1
+12
+a|2|a!1^7#1*19@a!3^6#9*35@
+bor|1|border_pen!5^11#1*51@
+del|1|delay!5^54#1*51@
+lst|1|lst!3^7#9*35@
+mov|1|move_left!5^35#5*50@
+not|1|notallowed!7^20#5*66@
+num|1|number!7^2#5*66@
+pla|2|player!5^24#1*51@playerspeed!5^32#1*51@
+wn|1|wn!5^6#1*51@
+x|3|x!7^28#9*67@x!3^8#9*35@x!1^3#1*19@
+y|2|y!1^5#1*19@y!7^26#5*67@
+z|3|z!1^4#1*19@z!7^29#9*67@z!3^3#5*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

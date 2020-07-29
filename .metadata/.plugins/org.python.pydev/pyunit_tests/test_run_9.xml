@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 9" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="D:/my work/Programming/Python/Python-workspace/Rovandata/rovandata.py" status="error" test="rovandata" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\moh.S-pc\.p2\pool\plugins\org.python.pydev.core_7.5.0.202001101138\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "D:\my work\Programming\Python\Python-workspace\Rovandata\rovandata.py", line 6, in <module>
+    rovan = ServiceAccountCredentials.from_json_keyfile_name('Rovan data.json',scope)
+  File "C:\Users\moh.S-pc\AppData\Local\Programs\Python\Python38-32\lib\site-packages\oauth2client\service_account.py", line 219, in from_json_keyfile_name
+    with open('Rovan data', 'r') as file_obj:
+FileNotFoundError: [Errno 2] No such file or directory: 'Rovan data'
+ERROR: Module: rovandata could not be imported (file: D:/my work/Programming/Python/Python-workspace/Rovandata/rovandata.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Rovandata Rovandata"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\dateandtime\com.python.pydev.analysis\v2_indexcache
+combinedateandtime|1591025388431437000|D:\my work\Programming\Python\Python-workspace\dateandtime\combinedateandtime.py
+dtdemo|1591025388464219000|D:\my work\Programming\Python\Python-workspace\dateandtime\dtdemo.py
+sortdate|1591026105839170000|D:\my work\Programming\Python\Python-workspace\dateandtime\sortdate.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=combinedateandtime
+6=dtdemo
+4=sortdate
+1=D:\my work\Programming\Python\Python-workspace\dateandtime\combinedateandtime.py
+5=D:\my work\Programming\Python\Python-workspace\dateandtime\dtdemo.py
+3=D:\my work\Programming\Python\Python-workspace\dateandtime\sortdate.py
+-- END DICTIONARY
+-- START TREE 1
+10
+d|1|d!1^4#1*19@
+d1|1|d1!3^9#1*35@
+d2|1|d2!3^10#1*35@
+d3|1|d3!3^11#1*35@
+dt|2|dt!1^6#1*19@dt!5^8#1*51@
+end|1|endtime!3^24#1*35@
+epo|1|epochseconds!5^2#1*51@
+lda|1|ldates!3^7#1*35@
+sta|1|starttime!3^4#1*35@
+t|2|t!1^5#1*19@t!5^5#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

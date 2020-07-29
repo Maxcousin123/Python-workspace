@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+downloadimag|D:\my work\Programming\Python\Python-workspace\networking\downloadimag.py
+emailclient|D:\my work\Programming\Python\Python-workspace\networking\emailclient.py
+fileclient|D:\my work\Programming\Python\Python-workspace\networking\fileclient.py
+fileserver|D:\my work\Programming\Python\Python-workspace\networking\fileserver.py
+tcpipclient|D:\my work\Programming\Python\Python-workspace\networking\tcpipclient.py
+tcpipserver|D:\my work\Programming\Python\Python-workspace\networking\tcpipserver.py
+urllibdemo|D:\my work\Programming\Python\Python-workspace\networking\urllibdemo.py

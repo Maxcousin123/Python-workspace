@@ -1,0 +1,32 @@
+from tkinter import *
+
+root = Tk()#to make the window
+root.geometry('300x300')#to make the size of the window 
+
+c = Canvas(root, height=250, width=300, bg='blue')
+c.pack(TOP)
+
+l = Label(root, text='Hello world')
+l.pack()
+
+
+
+def buttonfun():
+    print('Hello world')
+    
+
+                                   #this to make button function
+b = Button(root, text='Click me !', command = buttonfun)
+b.pack()#pack sort the elements 
+
+b2 = Button(root, text='Click me !', command = buttonfun)
+b2.pack(side=LEFT)#to sort elements side by side
+#BOTTOM , TOP , RIGHT
+
+
+
+
+
+
+
+root.mainloop()#to make the window stay

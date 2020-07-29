@@ -1,0 +1,60 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\multithreading\com.python.pydev.analysis\v2_indexcache
+usingclass|1591030747937237000|D:\my work\Programming\Python\Python-workspace\multithreading\usingclass.py
+threadcommunication|1591035935507911000|D:\my work\Programming\Python\Python-workspace\multithreading\threadcommunication.py
+threadcommunicationUsingwaitandnotify|1591040090566407000|D:\my work\Programming\Python\Python-workspace\multithreading\threadcommunicationUsingwaitandnotify.py
+usingsubclass|1591028463431901000|D:\my work\Programming\Python\Python-workspace\multithreading\usingsubclass.py
+bookmybus|1591033087739298000|D:\my work\Programming\Python\Python-workspace\multithreading\bookmybus.py
+mainthread|1591026873864372000|D:\my work\Programming\Python\Python-workspace\multithreading\mainthread.py
+usingfunction|1591028274071739000|D:\my work\Programming\Python\Python-workspace\multithreading\usingfunction.py
+-- END DISKCACHE
+-- START DICTIONARY
+19
+17=mythread
+12=usingsubclass
+1=D:\my work\Programming\Python\Python-workspace\multithreading\bookmybus.py
+16=producer.__init__
+5=D:\my work\Programming\Python\Python-workspace\multithreading\threadcommunicationUsingwaitandnotify.py
+19=consumer.__init__
+7=D:\my work\Programming\Python\Python-workspace\multithreading\usingfunction.py
+18=producer.produce
+10=usingclass
+4=threadcommunication
+6=threadcommunicationUsingwaitandnotify
+9=D:\my work\Programming\Python\Python-workspace\multithreading\usingclass.py
+13=producer
+3=D:\my work\Programming\Python\Python-workspace\multithreading\threadcommunication.py
+11=D:\my work\Programming\Python\Python-workspace\multithreading\usingsubclass.py
+2=bookmybus
+15=bookmybus.__init__
+14=consumer
+8=usingfunction
+-- END DICTIONARY
+-- START TREE 1
+12
+boo|1|bookmybus!1^3#7*17@
+c|2|c!3^30#1*35@c!5^31#1*51@
+con|2|consumer!3^16#7*33@consumer!5^19#7*49@
+dis|1|displaynumber!7^3#5*66@
+myt|2|mythread!9^3#7*81@mythread!11^3#7*97@
+obj|2|obj!1^22#1*19@obj!9^13#1*83@
+p|2|p!3^29#1*35@p!5^30#1*51@
+pro|2|producer!3^4#7*33@producer!5^4#7*49@
+t|3|t!9^14#1*83@t!7^11#1*67@t!11^10#1*99@
+t1|3|t1!3^32#1*35@t1!5^33#1*51@t1!1^23#1*19@
+t2|4|t2!1^24#1*19@t2!3^33#1*35@t2!5^34#1*51@t2!9^17#1*83@
+t3|2|t3!9^20#1*83@t3!1^25#1*19@
+-- END TREE
+-- START TREE 2
+9
+__i|5|__init__!13&3^5#9*34@__init__!14&3^17#9*34@__init__!2&1^5#9*18@__init__!13&5^5#9*50@__init__!14&5^20#9*50@
+ava|1|availableseats!15&1^6#9*19@
+buy|1|buy!2&1^9#9*18@
+c|1|c!16&5^7#9*51@
+dis|1|displaynumber!17&9^5#9*82@
+l|1|l!15&1^7#9*19@
+ord|2|ordersplaced!16&3^7#9*35@ordersplaced!18&3^14#9*35@
+pro|6|products!16&3^6#9*35@products!16&5^6#9*51@produce!13&5^9#9*50@prod!19&5^21#9*51@prod!19&3^18#9*35@produce!13&3^9#9*34@
+run|1|run!17&11^4#9*98@
+-- END TREE

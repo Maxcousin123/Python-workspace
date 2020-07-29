@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\networking\com.python.pydev.analysis\v2_indexcache
+tcpipclient|1591040013581250000|D:\my work\Programming\Python\Python-workspace\networking\tcpipclient.py
+urllibdemo|1591037505699727000|D:\my work\Programming\Python\Python-workspace\networking\urllibdemo.py
+fileserver|1591040403310108000|D:\my work\Programming\Python\Python-workspace\networking\fileserver.py
+tcpipserver|1591039579825474000|D:\my work\Programming\Python\Python-workspace\networking\tcpipserver.py
+downloadimag|1591037808588679000|D:\my work\Programming\Python\Python-workspace\networking\downloadimag.py
+emailclient|1591041547109139000|D:\my work\Programming\Python\Python-workspace\networking\emailclient.py
+fileclient|1591040606704246000|D:\my work\Programming\Python\Python-workspace\networking\fileclient.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+11=D:\my work\Programming\Python\Python-workspace\networking\tcpipclient.py
+13=D:\my work\Programming\Python\Python-workspace\networking\downloadimag.py
+10=tcpipserver
+1=D:\my work\Programming\Python\Python-workspace\networking\emailclient.py
+5=D:\my work\Programming\Python\Python-workspace\networking\urllibdemo.py
+9=D:\my work\Programming\Python\Python-workspace\networking\tcpipserver.py
+6=urllibdemo
+12=tcpipclient
+8=fileserver
+14=downloadimag
+3=D:\my work\Programming\Python\Python-workspace\networking\fileclient.py
+7=D:\my work\Programming\Python\Python-workspace\networking\fileserver.py
+2=emailclient
+4=fileclient
+-- END DICTIONARY
+-- START TREE 1
+10
+bod|1|body!1^4#1*19@
+con|3|content!3^11#1*35@content!5^5#5*51@content!7^18#5*67@
+f|2|f!5^11#1*51@f!7^17#5*67@
+fil|2|filename!7^14#1*67@filename!3^7#1*35@
+hos|2|host!7^3#1*67@host!9^3#1*83@
+msg|2|msg!11^7#1*99@msg!1^6#1*19@
+por|2|port!7^4#1*67@port!9^4#1*83@
+s|4|s!7^6#1*67@s!3^3#1*35@s!9^6#1*83@s!11^3#1*99@
+ser|1|server!1^12#1*19@
+url|2|url!13^3#1*115@url!5^4#5*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

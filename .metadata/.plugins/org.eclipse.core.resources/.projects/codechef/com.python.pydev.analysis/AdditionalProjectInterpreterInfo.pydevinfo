@@ -1,0 +1,69 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\codechef\com.python.pydev.analysis\v2_indexcache
+DecrementORIncrement|1591361954310613000|D:\my work\Programming\Python\Python-workspace\codechef\DecrementORIncrement.py
+contest|1592755264623878000|D:\my work\Programming\Python\Python-workspace\codechef\contest.py
+FlatLand|1591364365916081000|D:\my work\Programming\Python\Python-workspace\codechef\FlatLand.py
+numbermirror|1591339539931155000|D:\my work\Programming\Python\Python-workspace\codechef\numbermirror.py
+AdaSchool|1592726591016930000|D:\my work\Programming\Python\Python-workspace\codechef\AdaSchool.py
+snackdown|1591368196761884000|D:\my work\Programming\Python\Python-workspace\codechef\snackdown.py
+sumordifference|1591361954338588000|D:\my work\Programming\Python\Python-workspace\codechef\sumordifference.py
+SquareRoots|1592721524249754000|D:\my work\Programming\Python\Python-workspace\codechef\SquareRoots.py
+ChefAndTwoStrings|1591520727976260000|D:\my work\Programming\Python\Python-workspace\codechef\ChefAndTwoStrings.py
+PlayingWithMatches|1591425827188920000|D:\my work\Programming\Python\Python-workspace\codechef\PlayingWithMatches.py
+life_universe|1591360456667964000|D:\my work\Programming\Python\Python-workspace\codechef\life_universe.py
+ChefAndOperators|1591414572828265000|D:\my work\Programming\Python\Python-workspace\codechef\ChefAndOperators.py
+FindRemainder|1592642479755396000|D:\my work\Programming\Python\Python-workspace\codechef\FindRemainder.py
+luckyFour|1591427022542458000|D:\my work\Programming\Python\Python-workspace\codechef\luckyFour.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+9=D:\my work\Programming\Python\Python-workspace\codechef\sumordifference.py
+7=D:\my work\Programming\Python\Python-workspace\codechef\FlatLand.py
+14=DecrementORIncrement
+18=AdaSchool
+11=D:\my work\Programming\Python\Python-workspace\codechef\snackdown.py
+12=snackdown
+3=D:\my work\Programming\Python\Python-workspace\codechef\ChefAndTwoStrings.py
+5=D:\my work\Programming\Python\Python-workspace\codechef\PlayingWithMatches.py
+19=D:\my work\Programming\Python\Python-workspace\codechef\SquareRoots.py
+20=SquareRoots
+2=luckyFour
+26=ChefAndOperators
+8=FlatLand
+13=D:\my work\Programming\Python\Python-workspace\codechef\DecrementORIncrement.py
+16=numbermirror
+21=D:\my work\Programming\Python\Python-workspace\codechef\life_universe.py
+23=D:\my work\Programming\Python\Python-workspace\codechef\FindRemainder.py
+25=D:\my work\Programming\Python\Python-workspace\codechef\ChefAndOperators.py
+1=D:\my work\Programming\Python\Python-workspace\codechef\luckyFour.py
+10=sumordifference
+15=D:\my work\Programming\Python\Python-workspace\codechef\numbermirror.py
+4=ChefAndTwoStrings
+6=PlayingWithMatches
+22=life_universe
+17=D:\my work\Programming\Python\Python-workspace\codechef\AdaSchool.py
+24=FindRemainder
+-- END DICTIONARY
+-- START TREE 1
+16
+a|1|a!1^3#5*19@
+c|2|c!3^7#5*35@c!5^1#1*51@
+cou|1|count!7^3#5*67@
+j|1|j!7^5#9*67@
+l|1|l!5^5#5*51@
+n|2|n!5^7#9*51@n!7^2#5*67@
+n1|1|n1!9^1#1*83@
+n2|1|n2!9^2#1*83@
+p|1|p!3^8#5*35@
+s|1|s!11^4#5*99@
+s1|1|s1!3^4#5*35@
+s2|1|s2!3^5#5*35@
+t|1|t!11^1#1*99@
+x|8|x!13^1#1*115@x!1^1#1*19@x!15^1#1*131@x!17^1#1*147@x!19^3#1*163@x!21^2#5*179@x!3^1#1*35@x!23^1#1*195@
+y|3|y!5^4#5*51@y!11^3#5*99@y!19^5#5*163@
+z|1|z!25^1#1*211@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

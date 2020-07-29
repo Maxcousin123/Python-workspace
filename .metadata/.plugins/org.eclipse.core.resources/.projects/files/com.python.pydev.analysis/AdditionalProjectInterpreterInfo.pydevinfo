@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\files\com.python.pydev.analysis\v2_indexcache
+pickledump|1590998334327823000|D:\my work\Programming\Python\Python-workspace\files\pickledump.py
+read|1590997091471952000|D:\my work\Programming\Python\Python-workspace\files\read.py
+ztudent|1590998206963361000|D:\my work\Programming\Python\Python-workspace\files\ztudent.py
+write2|1590997855392538000|D:\my work\Programming\Python\Python-workspace\files\write2.py
+write|1590997327287664000|D:\my work\Programming\Python\Python-workspace\files\write.py
+pickleload|1591000405389405000|D:\my work\Programming\Python\Python-workspace\files\pickleload.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+5=D:\my work\Programming\Python\Python-workspace\files\pickleload.py
+2=pickledump
+10=read
+13=student
+12=ztudent
+7=D:\my work\Programming\Python\Python-workspace\files\write2.py
+6=pickleload
+9=D:\my work\Programming\Python\Python-workspace\files\read.py
+11=D:\my work\Programming\Python\Python-workspace\files\ztudent.py
+8=write2
+14=student.__init__
+3=D:\my work\Programming\Python\Python-workspace\files\write.py
+4=write
+1=D:\my work\Programming\Python\Python-workspace\files\pickledump.py
+-- END DICTIONARY
+-- START TREE 1
+4
+f|5|f!1^3#1*19@f!3^2#1*35@f!5^3#1*51@f!7^4#5*67@f!9^1#1*83@
+obj|1|obj!5^4#1*51@
+s|4|s!3^5#1*35@s!9^2#1*83@s!7^10#1*67@s!1^4#1*19@
+stu|1|student!11^1#7*97@
+-- END TREE
+-- START TREE 2
+5
+__i|1|__init__!13&11^2#9*98@
+dis|1|display!13&11^7#9*98@
+id|1|id!14&11^3#9*99@
+nam|1|name!14&11^4#9*99@
+sco|1|score!14&11^5#9*99@
+-- END TREE

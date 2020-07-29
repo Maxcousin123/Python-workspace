@@ -1,0 +1,6 @@
+import random
+from getpass import getpass
+
+
+x = (getpass.random.randrange(20))
+print(x)

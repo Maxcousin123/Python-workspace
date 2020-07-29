@@ -1,0 +1,86 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\functions\com.python.pydev.analysis\v2_indexcache
+average|1590584154530167000|D:\my work\Programming\Python\Python-workspace\functions\average.py
+cubelampda|1590730537085340000|D:\my work\Programming\Python\Python-workspace\functions\cubelampda.py
+evenoroddfilter|1590731094778265000|D:\my work\Programming\Python\Python-workspace\functions\evenoroddfilter.py
+sumlampda|1590730957061780000|D:\my work\Programming\Python\Python-workspace\functions\sumlampda.py
+doubleusingmap|1590731824912247000|D:\my work\Programming\Python\Python-workspace\functions\doubleusingmap.py
+usesmodule|1590738293745076000|D:\my work\Programming\Python\Python-workspace\functions\usesmodule.py
+doubledecor|1590733457216572000|D:\my work\Programming\Python\Python-workspace\functions\doubledecor.py
+factorial|1590728713428215000|D:\my work\Programming\Python\Python-workspace\functions\factorial.py
+greeting|1590655024473681000|D:\my work\Programming\Python\Python-workspace\functions\greeting.py
+mymath|1590736999574608000|D:\my work\Programming\Python\Python-workspace\functions\mymath.py
+someusingreduce|1590732771503268000|D:\my work\Programming\Python\Python-workspace\functions\someusingreduce.py
+returnfunction|1590655313922590000|D:\my work\Programming\Python\Python-workspace\functions\returnfunction.py
+stringdecor|1590733894795100000|D:\my work\Programming\Python\Python-workspace\functions\stringdecor.py
+evenoroddlampda|1590730575604711000|D:\my work\Programming\Python\Python-workspace\functions\evenoroddlampda.py
+localandglobal|1590654162181565000|D:\my work\Programming\Python\Python-workspace\functions\localandglobal.py
+functionasaoaremeter|1590655024578751000|D:\my work\Programming\Python\Python-workspace\functions\functionasaoaremeter.py
+customgenerator|1590735348948642000|D:\my work\Programming\Python\Python-workspace\functions\customgenerator.py
+listfun|1590655537168367000|D:\my work\Programming\Python\Python-workspace\functions\listfun.py
+calc|1590584463788462000|D:\my work\Programming\Python\Python-workspace\functions\calc.py
+-- END DISKCACHE
+-- START DICTIONARY
+36
+21=D:\my work\Programming\Python\Python-workspace\functions\cubelampda.py
+2=average
+22=cubelampda
+32=evenoroddfilter
+34=doubleusingmap
+7=D:\my work\Programming\Python\Python-workspace\functions\doubledecor.py
+14=greeting
+24=factorial
+17=D:\my work\Programming\Python\Python-workspace\functions\functionasaoaremeter.py
+19=D:\my work\Programming\Python\Python-workspace\functions\localandglobal.py
+3=D:\my work\Programming\Python\Python-workspace\functions\calc.py
+1=D:\my work\Programming\Python\Python-workspace\functions\average.py
+10=stringdecor
+20=localandglobal
+27=D:\my work\Programming\Python\Python-workspace\functions\sumlampda.py
+29=D:\my work\Programming\Python\Python-workspace\functions\evenoroddlampda.py
+31=D:\my work\Programming\Python\Python-workspace\functions\evenoroddfilter.py
+18=functionasaoaremeter
+5=D:\my work\Programming\Python\Python-workspace\functions\customgenerator.py
+6=customgenerator
+28=sumlampda
+15=D:\my work\Programming\Python\Python-workspace\functions\returnfunction.py
+8=doubledecor
+12=mymath
+9=D:\my work\Programming\Python\Python-workspace\functions\stringdecor.py
+36=someusingreduce
+16=returnfunction
+33=D:\my work\Programming\Python\Python-workspace\functions\doubleusingmap.py
+30=evenoroddlampda
+25=D:\my work\Programming\Python\Python-workspace\functions\listfun.py
+23=D:\my work\Programming\Python\Python-workspace\functions\factorial.py
+11=D:\my work\Programming\Python\Python-workspace\functions\mymath.py
+26=listfun
+4=calc
+13=D:\my work\Programming\Python\Python-workspace\functions\greeting.py
+35=D:\my work\Programming\Python\Python-workspace\functions\someusingreduce.py
+-- END DICTIONARY
+-- START TREE 1
+18
+ave|1|average!1^1#5*18@
+cal|1|calc!3^1#5*34@
+cus|1|customgen!5^1#5*50@
+dec|3|decor!7^1#5*66@decorfun!9^1#5*82@decor1!7^14#5*66@
+dif|1|diff!11^10#5*98@
+dis|4|display!13^1#5*114@display!15^1#5*130@display!17^1#5*146@display!19^2#5*162@
+f|1|f!21^6#1*179@
+fac|1|factorial!23^1#5*194@
+fun|2|fun!25^1#5*210@fun!15^6#1*131@
+hel|1|hello!9^9#5*82@
+l|2|l!27^6#1*227@l!29^1#1*243@
+lst|3|lst!31^1#1*259@lst!33^1#1*275@lst!35^3#1*291@
+nam|1|name!17^4#5*146@
+num|2|num!7^8#5*66@num1!7^21#5*66@
+res|6|result!33^3#1*275@result!3^8#1*35@result!35^4#1*291@result!5^6#1*51@resultfun!7^11#1*67@result!31^3#1*259@
+sum|1|sum1!11^7#5*98@
+x|1|x!19^1#1*163@
+z|1|z!19^10#1*163@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

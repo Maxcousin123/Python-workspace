@@ -1,0 +1,105 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\myowntests\com.python.pydev.analysis\v2_indexcache
+exception|1590994045755564000|D:\my work\Programming\Python\Python-workspace\myowntests\exception.py
+loopassignment|1590573048267845000|D:\my work\Programming\Python\Python-workspace\myowntests\loopassignment.py
+encapsulation|1590846523108109000|D:\my work\Programming\Python\Python-workspace\myowntests\encapsulation.py
+threadtest|1591040087140328000|D:\my work\Programming\Python\Python-workspace\myowntests\threadtest.py
+abstracttest|1590915629142690000|D:\my work\Programming\Python\Python-workspace\myowntests\abstracttest.py
+rovanprogramtest1|1590570678462123000|D:\my work\Programming\Python\Python-workspace\myowntests\rovanprogramtest1.py
+test@2|1591766274139435000|D:\my work\Programming\Python\Python-workspace\myowntests\test@2.py
+snake|1591180301409592000|D:\my work\Programming\Python\Python-workspace\myowntests\snake.py
+ifelseladder|1590564393841176000|D:\my work\Programming\Python\Python-workspace\myowntests\ifelseladder.py
+snake2|1591180597668221000|D:\my work\Programming\Python\Python-workspace\myowntests\snake2.py
+test@|1593449562377014000|D:\my work\Programming\Python\Python-workspace\myowntests\test@.py
+understandit|1590994045718621000|D:\my work\Programming\Python\Python-workspace\myowntests\understandit.py
+-- END DISKCACHE
+-- START DICTIONARY
+35
+22=exception
+20=encapsulation
+24=rovanprogramtest1
+28=EvenThread
+23=D:\my work\Programming\Python\Python-workspace\myowntests\rovanprogramtest1.py
+10=snake
+15=D:\my work\Programming\Python\Python-workspace\myowntests\loopassignment.py
+33=hp
+25=touchscreenlaptop
+12=snake2
+16=loopassignment
+8=abstracttest
+29=patient
+1=D:\my work\Programming\Python\Python-workspace\myowntests\test@2.py
+21=D:\my work\Programming\Python\Python-workspace\myowntests\exception.py
+6=ifelseladder
+11=D:\my work\Programming\Python\Python-workspace\myowntests\snake2.py
+5=D:\my work\Programming\Python\Python-workspace\myowntests\ifelseladder.py
+17=D:\my work\Programming\Python\Python-workspace\myowntests\understandit.py
+27=dellnotebook
+7=D:\my work\Programming\Python\Python-workspace\myowntests\abstracttest.py
+31=patient.setname
+26=hpnotebook
+30=patient.setid
+34=dell
+35=patient.setssn
+14=threadtest
+32=OddThread
+2=test@2
+19=D:\my work\Programming\Python\Python-workspace\myowntests\encapsulation.py
+13=D:\my work\Programming\Python\Python-workspace\myowntests\threadtest.py
+3=D:\my work\Programming\Python\Python-workspace\myowntests\test@.py
+4=test@
+18=understandit
+9=D:\my work\Programming\Python\Python-workspace\myowntests\snake.py
+-- END DICTIONARY
+-- START TREE 1
+36
+a|2|a!1^13#5*19@a!3^1#1*35@
+av|1|av!5^4#1*51@
+b|1|b!1^14#5*19@
+c|1|c!1^15#5*19@
+che|1|chemistry!5^3#1*51@
+del|5|dellnotebook!7^26#7*65@dell2!7^34#1*67@delay!9^5#1*83@dell!7^18#7*65@delay!11^5#1*99@
+eve|1|EvenThread!13^5#7*113@
+foo|2|food!11^28#1*99@food!9^33#1*83@
+go_|8|go_left!11^56#5*98@go_up!9^58#5*82@go_right!9^69#5*82@go_down!9^62#5*82@go_down!11^52#5*98@go_left!9^66#5*82@go_up!11^48#5*98@go_right!11^60#5*98@
+hea|2|head!11^19#1*99@head!9^22#1*83@
+hig|2|high_score!9^9#1*83@high_score!11^9#1*99@
+hp|1|hp!7^13#7*65@
+hp1|1|hp1!7^30#1*67@
+hpn|1|hpnotebook!7^22#7*65@
+i|1|i!15^3#1*131@
+ins|1|inserdata!1^3#5*18@
+inv|1|InvalidPasswordException!17^1#7*145@
+mat|1|maths!5^1#1*51@
+mov|2|move!9^74#5*82@move!11^64#5*98@
+new|2|new_segment!9^132#9*83@new_segment!11^123#9*99@
+obj|2|obj2!13^31#1*115@obj1!13^29#1*115@
+odd|1|OddThread!13^17#7*113@
+p|2|p!19^21#1*163@p!17^11#9*147@
+pat|1|patient!19^1#7*161@
+pen|2|pen!11^38#1*99@pen!9^44#1*83@
+phy|1|physics!5^2#1*51@
+pw|1|pw!21^2#5*179@
+sco|2|score!9^8#1*83@score!11^8#1*99@
+seg|2|segments!11^35#1*99@segments!9^41#1*83@
+t1|1|t1!13^33#1*115@
+t2|1|t2!13^35#1*115@
+tou|1|touchscreenlaptop!7^4#7*65@
+wn|2|wn!9^15#1*83@wn!11^12#1*99@
+x|5|x!9^128#9*83@x!1^20#5*19@x!23^1#1*195@x!11^118#9*99@x!15^1#1*131@
+xe|1|xe!1^12#5*19@
+y|4|y!15^2#1*131@y!9^129#9*83@y!1^9#1*19@y!11^119#9*99@
+-- END TREE
+-- START TREE 2
+9
+cli|3|click!25&7^10#9*66@click!26&7^23#9*66@click!27&7^27#9*66@
+eve|1|evenNumbers!28&13^7#9*114@
+get|3|getid!29&19^6#9*162@getssn!29&19^18#9*162@getname!29&19^12#9*162@
+id|1|id!30&19^4#9*163@
+nam|1|name!31&19^10#9*163@
+odd|1|oddNumbers!32&13^19#9*114@
+scr|3|scroll!25&7^6#9*66@scroll!33&7^14#9*66@scroll!34&7^19#9*66@
+set|3|setssn!29&19^15#9*162@setid!29&19^3#9*162@setname!29&19^9#9*162@
+ssn|1|ssn!35&19^16#9*163@
+-- END TREE

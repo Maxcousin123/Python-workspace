@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;myowntests/Rovan data-50598c54360d.json&apos; to &apos;Rovan data.json&apos;" description="Rename resource &apos;Rovan data-50598c54360d.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Rovan data-50598c54360d.json" name="Rovan data.json" stamp="1591776425716" updateReferences="true"/>
+</session>

@@ -1,0 +1,65 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\basics\com.python.pydev.analysis\v2_indexcache
+stringtype|1590402076500303000|D:\my work\Programming\Python\Python-workspace\basics\stringtype.py
+settype|1590485296443630000|D:\my work\Programming\Python\Python-workspace\basics\settype.py
+stringtypr|1580745399583469000|D:\my work\Programming\Python\Python-workspace\basics\stringtypr.py
+string|1585074580531305000|D:\my work\Programming\Python\Python-workspace\basics\string.py
+numuric|1580745255424798000|D:\my work\Programming\Python\Python-workspace\basics\numuric.py
+rangetype|1590485469930423000|D:\my work\Programming\Python\Python-workspace\basics\rangetype.py
+tupetype|1590484627338705000|D:\my work\Programming\Python\Python-workspace\basics\tupetype.py
+bytesandarrays|1590486296727754000|D:\my work\Programming\Python\Python-workspace\basics\bytesandarrays.py
+hello|1580573027744096000|D:\my work\Programming\Python\Python-workspace\basics\hello.py
+listtype|1590483753351448000|D:\my work\Programming\Python\Python-workspace\basics\listtype.py
+dictype|1590488258426454000|D:\my work\Programming\Python\Python-workspace\basics\dictype.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+16=stringtype
+19=D:\my work\Programming\Python\Python-workspace\basics\stringtypr.py
+8=settype
+1=D:\my work\Programming\Python\Python-workspace\basics\numuric.py
+18=string
+7=D:\my work\Programming\Python\Python-workspace\basics\settype.py
+13=D:\my work\Programming\Python\Python-workspace\basics\rangetype.py
+4=bytesandarrays
+17=D:\my work\Programming\Python\Python-workspace\basics\string.py
+9=D:\my work\Programming\Python\Python-workspace\basics\listtype.py
+11=D:\my work\Programming\Python\Python-workspace\basics\tupetype.py
+5=D:\my work\Programming\Python\Python-workspace\basics\dictype.py
+20=stringtypr
+2=numuric
+12=tupetype
+14=rangetype
+15=D:\my work\Programming\Python\Python-workspace\basics\stringtype.py
+3=D:\my work\Programming\Python\Python-workspace\basics\bytesandarrays.py
+10=listtype
+6=dictype
+-- END DICTIONARY
+-- START TREE 1
+21
+a|1|a!1^1#1*19@
+b|2|b!3^3#1*35@b!1^2#1*19@
+b1|1|b1!3^6#1*35@
+c|1|c!1^3#1*19@
+d|1|d!1^10#1*19@
+dic|1|dict1!5^1#1*51@
+e|1|e!1^14#1*19@
+f|2|f!1^18#1*19@f!7^12#1*67@
+g|1|g!1^22#1*19@
+h|1|h!1^25#1*19@
+i|1|i!1^29#1*19@
+k|1|k!5^6#1*51@
+lst|3|lst!9^1#1*83@lst!11^8#1*99@lst!3^1#1*35@
+r|1|r!13^1#1*115@
+s|4|s!7^1#1*67@s!15^2#1*131@s!17^1#1*147@s!19^1#1*163@
+s1|2|s1!15^7#1*131@s1!19^5#1*163@
+tpl|2|tpl1!11^10#1*99@tpl!11^1#1*99@
+v|1|v!5^9#1*51@
+x|1|x!1^6#1*19@
+y|1|y!1^7#1*19@
+z|1|z!1^8#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

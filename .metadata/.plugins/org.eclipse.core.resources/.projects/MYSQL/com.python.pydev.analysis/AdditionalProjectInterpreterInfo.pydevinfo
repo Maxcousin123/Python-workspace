@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\MYSQL\com.python.pydev.analysis\v2_indexcache
+testing|1591953588206395000|D:\my work\Programming\Python\Python-workspace\MYSQL\testing.py
+sqltest|1591944124399447000|D:\my work\Programming\Python\Python-workspace\MYSQL\sqltest.py
+testing2|1591953315081035000|D:\my work\Programming\Python\Python-workspace\MYSQL\testing2.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=D:\my work\Programming\Python\Python-workspace\MYSQL\testing2.py
+2=testing
+6=sqltest
+5=D:\my work\Programming\Python\Python-workspace\MYSQL\sqltest.py
+4=testing2
+1=D:\my work\Programming\Python\Python-workspace\MYSQL\testing.py
+-- END DICTIONARY
+-- START TREE 1
+5
+myc|3|mycursor!1^9#1*19@mycursor!3^13#1*35@mycursor!5^9#1*51@
+myd|3|mydb!5^8#1*51@mydb!3^8#1*35@mydb!1^8#1*19@
+myr|2|myresult!5^47#1*51@myresult!3^16#1*35@
+sql|2|sqlFormula!5^30#1*51@sql!5^58#1*51@
+stu|1|student1!5^31#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,23 @@
+class patient:
+    
+    def setidd(self,idd):
+        self.setidd=idd
+    def getidd(self,idd):
+        return self.idd
+    def setname(self,name):
+        self.setname=name
+    def getname(self):
+        return self.name
+    def setssn(self,ssn):
+        self.setssn=ssn
+    def getssn(self):
+        return self.ssn
+    
+p=patient()
+p.setidd(123)
+p.setssn(456)
+p.setname('mohammed')
+
+print(p.getidd())
+print(p.getname())
+print(p.getssn())

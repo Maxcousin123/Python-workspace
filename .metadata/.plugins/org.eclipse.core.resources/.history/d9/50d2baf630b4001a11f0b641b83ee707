@@ -1,0 +1,5 @@
+n = int(input('m'))
+i = 0
+for i in (i,n):
+    print(i**2)
+    

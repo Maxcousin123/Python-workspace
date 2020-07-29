@@ -1,0 +1,11 @@
+from tkinter import *
+
+root = Tk()#to make the window
+root.geometry('300x300')#to make the size of the window 
+l = Label(root, text='Hello world')
+l.pack()
+
+b = Button(root, text='Click me !')
+b.pack()
+
+root.mainloop()#to make the window stay

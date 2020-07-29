@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\encapsulation\com.python.pydev.analysis\v2_indexcache
+student|1590844762470920000|D:\my work\Programming\Python\Python-workspace\encapsulation\student.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=student
+1=D:\my work\Programming\Python\Python-workspace\encapsulation\student.py
+3=student.setid
+4=student.setname
+-- END DICTIONARY
+-- START TREE 1
+2
+s|1|s!1^32#1*19@
+stu|1|student!1^19#7*17@
+-- END TREE
+-- START TREE 2
+4
+get|2|getid!2&1^22#9*18@getname!2&1^28#9*18@
+id|1|id!3&1^21#9*19@
+nam|1|name!4&1^26#9*19@
+set|2|setname!2&1^25#9*18@setid!2&1^20#9*18@
+-- END TREE

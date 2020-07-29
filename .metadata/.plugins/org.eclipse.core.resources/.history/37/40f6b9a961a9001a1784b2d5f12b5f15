@@ -1,0 +1,8 @@
+import random
+
+a = input('Pick a choice')
+
+lst = ['Rock','paper','scissors']
+x = random.choice(lst)
+print(x)
+

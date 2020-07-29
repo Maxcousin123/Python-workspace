@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 8" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="D:\my work\Programming\Python\Python-workspace\myowntests\snake.py" status="error" test="snake" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\moh.S-pc\.p2\pool\plugins\org.python.pydev.core_7.5.0.202001101138\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "D:\my work\Programming\Python\Python-workspace\myowntests\snake.py", line 120, in <module>
+    pen.clear()
+  File "C:\Users\moh.S-pc\AppData\Local\Programs\Python\Python38-32\lib\turtle.py", line 2642, in clear
+    self._clear()
+  File "C:\Users\moh.S-pc\AppData\Local\Programs\Python\Python38-32\lib\turtle.py", line 2620, in _clear
+    self.screen._delete(item)
+  File "C:\Users\moh.S-pc\AppData\Local\Programs\Python\Python38-32\lib\turtle.py", line 557, in _delete
+    self.cv.delete(item)
+  File "<string>", line 1, in delete
+  File "C:\Users\moh.S-pc\AppData\Local\Programs\Python\Python38-32\lib\tkinter\__init__.py", line 2818, in delete
+    self.tk.call((self._w, 'delete') + args)
+_tkinter.TclError: invalid command name ".!canvas"
+ERROR: Module: snake could not be imported (file: D:\my work\Programming\Python\Python-workspace\myowntests\snake.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="myowntests snake.py (1)"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

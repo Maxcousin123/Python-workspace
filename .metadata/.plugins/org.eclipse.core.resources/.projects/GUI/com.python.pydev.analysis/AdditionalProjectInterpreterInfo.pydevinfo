@@ -1,0 +1,48 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\GUI\com.python.pydev.analysis\v2_indexcache
+Tkinter|1592193571679533000|D:\my work\Programming\Python\Python-workspace\GUI\Tkinter.py
+rovan|1592373594539039000|D:\my work\Programming\Python\Python-workspace\GUI\rovan.py
+GuiTest|1592112272968140000|D:\my work\Programming\Python\Python-workspace\GUI\GuiTest.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=D:\my work\Programming\Python\Python-workspace\GUI\Tkinter.py
+7=mywindow
+5=D:\my work\Programming\Python\Python-workspace\GUI\GuiTest.py
+4=Tkinter
+8=mywindow.initui
+2=rovan
+1=D:\my work\Programming\Python\Python-workspace\GUI\rovan.py
+6=GuiTest
+-- END DICTIONARY
+-- START TREE 1
+18
+a|1|a!1^67#1*19@
+b|1|b!1^70#5*19@
+c|1|c!1^71#5*19@
+d|1|d!1^72#5*19@
+del|1|delcode!1^60#5*18@
+e|2|e!1^73#5*19@e!3^83#1*35@
+edi|1|editcode!1^38#5*18@
+f|1|f!1^76#5*19@
+g|1|g!1^79#5*19@
+h|1|h!1^82#5*19@
+myb|1|mybutton!3^91#1*35@
+myc|2|myClick!3^86#5*34@mycursor!1^9#1*19@
+myd|1|mydb!1^8#1*19@
+myw|1|mywindow!5^5#7*49@
+new|1|newdata!1^11#5*18@
+old|1|olddata!1^28#5*18@
+roo|1|root!3^80#1*35@
+win|1|window!5^35#5*50@
+-- END TREE
+-- START TREE 2
+6
+__i|1|__init__!7&5^6#9*50@
+b1|1|b1!8&5^19#9*51@
+cli|1|clicked!7&5^23#9*50@
+ini|1|initui!7&5^14#9*50@
+lab|1|label!8&5^15#9*51@
+upd|1|update!7&5^26#9*50@
+-- END TREE

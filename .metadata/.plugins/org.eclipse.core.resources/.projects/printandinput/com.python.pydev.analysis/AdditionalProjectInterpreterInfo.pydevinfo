@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\my work\Programming\Python\Python-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\printandinput\com.python.pydev.analysis\v2_indexcache
+inputfunction|1590519642461065000|D:\my work\Programming\Python\Python-workspace\printandinput\inputfunction.py
+printfun|1590514246930394000|D:\my work\Programming\Python\Python-workspace\printandinput\printfun.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=D:\my work\Programming\Python\Python-workspace\printandinput\inputfunction.py
+2=inputfunction
+3=D:\my work\Programming\Python\Python-workspace\printandinput\printfun.py
+4=printfun
+-- END DICTIONARY
+-- START TREE 1
+3
+lst|1|lst!1^8#1*19@
+mar|1|marks!3^9#1*35@
+nam|1|name!3^8#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

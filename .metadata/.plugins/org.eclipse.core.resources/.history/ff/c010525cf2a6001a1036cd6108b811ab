@@ -1,0 +1,6 @@
+x=int(input('Enter number'))
+while (x<42):
+    int(input('Enter number'))
+
+
+    

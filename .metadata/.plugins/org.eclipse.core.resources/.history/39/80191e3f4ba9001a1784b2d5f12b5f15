@@ -1,0 +1,28 @@
+import random
+def number(z,x):
+    if z == y-1 or y+1:
+        print('too close')
+        print('this is the correct number ',x)
+    elif z == y-2 or y+2:
+        print('close')
+        print('this is the correct number ',x)
+    elif z ==  y-3 or y+3:
+        print('not close')
+        print('this is the correct number ',x)
+    elif z == y-4 or y+4:
+        print('far')
+        print('this is the correct number ',x)
+    elif z == y:
+        print('correct :)')
+    else:
+        print('too far')
+        print('this is the correct number ',x)
+
+y = input('Enter a command')
+if y == 'n': 
+    x = (random.randrange(20))
+    z = int(input('Number is created , guess it')
+    number(z,x)
+else:
+    print('Error')
+    

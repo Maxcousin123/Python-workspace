@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rovan-data",
+  "private_key_id": "50598c54360d6127bcdb4994f6caf3d94020ca15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCGJiqv9OBD9VGA\nTsZFvm3e/gtJLFt9ZAkVaw7i5NCpzB0wq5E/E1zxk9n3nKq6mHsVGl1LrIqJUP6Y\n0uwJF5n/MXTARzj/PRSYkVr3hajlpznvpkeBoBQ11qOwrYGfP0c/SzokYuRHK8II\nZ9bVrbdU2o6ZrTqtuxkPjvmgbtQQQD5vX2YrAhANesAlNrdQWtEE8vjMxENWWsNm\nMK5ST9RaSpYrJT/tszSIVCxdokzCqWIF4v/e8t7g+5hsuhAvNKfLMkHo8cBUemOT\nBDca1puEXXwM/L4KlH+VGVc96+pe7A/gjxDu0IDsSxYAcQfmjRroO2USinT+Lktu\n7v4y973TAgMBAAECggEAF/fqyZyBk3LZ+Ihaoax4Gg8e+hh8UkeU3ehOdRi39Zac\nIo2M+o2dniYyHC04TfWfjDI1OCegaw93JdwNw0QdxjxSZWZ0VxpVOztBWxddCYda\n8Sgu/4iYA9SRU6h0j/zw4Gyy+zxWGCdH2FOhTXVn27ffIbMTWGYlAKQlktYqeqqV\npF1g1LSX8B3nARe0mcOOKiNV9tJIBMYRnGbsA0kY0+LErWSrIcAS4Xbv1iG6cnSd\nB5OyRTMyqV7I9nny9pAJ8s3wLu49IGFUKocE9aa17gvyWHVjKQ4SIQzHvUXGQ96l\n3upktYmoBukF/E1vV+7x3S6oRh5pTDnwB5tFMXSr9QKBgQC5jVUrUPBmGLnLpRlZ\nDQDA1xSNMOzYkuuMbI2vkTiWgXe15kJvuapBRrcRbp5021WIvcKiCAeKmC/9AcBP\nS2dBxeKWR6IbeudOYI66OevoymjLV4RTU59EECaaYJ+JpcMJaAgdaXrBMoXZCCd8\nR9iiR7WI8pgktlEXGTDNdrK7dQKBgQC5FL0mKDUh/7t0OMiPGtN6iVS6Prv42OE1\ndNIcYmxiCnXtBbp0U9ctWvTYGSSPG60aZTLgZ7oQnj8WxZZHrvMRSObiICBzyaM/\nyeAL3fvFZDPXvFSEEMwVRKFkQ+CYLLHsblrzN11upZRKRCFeo/p9lkptaBbLDA3H\nCvosvZWTJwKBgHr+1n/6DQCAT1hQPjcrSV6Ks5LL5ZPB/+V7Z4gDaVFKzMGEunE4\nz0SpzVv+yYaIhXA46TViwSz7qIO7j3CAeRe+Rm57WVeB5qWrl7CWCGytDz4K6yoY\n+i+xzQT0G4ywllI75XUpoDdEeDjfEN1u+ojHo+v9cyCSwbnf9tubXOqpAoGAPV9n\nKZQDqnaGzo9V0j5vCh8n/Wp4IpiodXV7hvYMQqZ9XE+d+J0kqWGT92S+/sWKrUoJ\niOhchs4y1XZH0xVsfLrT9P/6QusGO0zSAp1ls5r6pftJe1Gmmxba/ciUXWHUzjX5\n6tTdIqe9eLMG7b8qfSKtI4J0rHgeyXYWZ2emhdkCgYEAg2O8AH7gA3HFC7cNLU6/\nUAnsMI+T254ySeTmOZ+WTkPOw1ZyzUMdWzsVREWQLfkbIIhJUrvJUbgkIDAVgxii\nOjP6sutOkU+1BmH8AzVtcKhiqyj5xgiIoHniNjrMdmfQCC1KkuupDKVhsBHXf+Ch\nOV+eu4B5I5clE6VsS25NcYk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rovan-data@rovan-data.iam.gserviceaccount.com",
+  "client_id": "114703285523260285287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rovan-data%40rovan-data.iam.gserviceaccount.com"
+}
