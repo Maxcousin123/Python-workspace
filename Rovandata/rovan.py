@@ -6,7 +6,7 @@ x,y,z,v='color: ','size: ','price: ','Enter the code: '
 mydb = mysql.connector.connect(
     host='localhost',
     user='maxcousin',
-    password='www.moh.com',
+    password='secret:)',
     database='testdb' #to request a specific database
     )
 mycursor = mydb.cursor()

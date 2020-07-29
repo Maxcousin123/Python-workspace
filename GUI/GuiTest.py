@@ -13,7 +13,7 @@ class mywindow(QMainWindow):
         
     def initui(self):
         self.label = QtWidgets.QLabel(self)
-        self.label.setText('A7A')
+        self.label.setText('asd')
         self.label.move(50,50)
     
         self.b1 = QtWidgets.QPushButton(self)
